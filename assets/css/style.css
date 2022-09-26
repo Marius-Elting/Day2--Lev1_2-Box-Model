@@ -1,0 +1,19 @@
+body main section p {
+    background-color: green;
+    width: 300px;
+    padding: 25px;
+    display: inline-block;
+    border: 5px solid black;
+    margin: 30px;
+}
+
+
+body main section {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+body main {
+    text-align: center;
+    margin-top: 25%;
+}
